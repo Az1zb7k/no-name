@@ -1,0 +1,352 @@
+.Dad{
+    padding: 0px 88px;
+    width: 1240px;
+    height: 869px;
+    justify-content: center;
+    gap: 15%;
+    display: flex;
+    
+    /* Colour/Background Light Grey */
+    
+    background: #FBFBFD;
+    }
+    @media only screen and (max-width: 600px) {
+        .Dad {
+            width: 600px;
+          padding: 0;
+          display: grid;
+          height: 1000px;
+          width: 600px;
+        }
+      }
+      
+    .Zaybal{
+        height: 1000px;
+        width: 100%;
+    }
+    .Text---1{
+        margin-top: 100px;
+        margin-bottom:  521px;
+        justify-content: center;
+         text-align: start;
+         width: 520px;
+         height: 96px;
+    
+    }
+    @media only screen and (max-width: 600px) {
+        .Text---1 {
+            width: 320px;
+           justify-content: start;
+           /* margin-right: 500px; */
+           margin-top: 10px;
+           margin-bottom: 20px;
+        }
+      }
+      
+    .text---1{
+        /* position: absolute; */
+    height: 96px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    
+    /* Medium 36 */
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    /* or 133% */
+    
+    
+    /* Colour/Main/Blue/900 */
+    
+    color: #091133;
+    
+    
+    }
+    
+    .text1---1{
+    
+    /* position: absolute; */
+    /* height: 140px;
+    left: 0px;
+    right: 0px;
+    top: 112px; */
+    
+    /* Regular 16 */
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    
+    
+    /* Colour/Main/Blue/400 */
+    
+    color: #6F7CB2;
+    
+    }
+    
+    .poto1{
+    
+     
+        
+         margin-top: 64px;
+        left: 2.38%;
+       
+        right: 2.45%;
+        top: 2.11%;
+        bottom: 2.99%;
+        /* border-radius: 58px; */
+    
+    
+    
+    }
+    @media only screen and (max-width: 600px) {
+        .poto {
+          width: 0px;
+          height: 0px;
+        }
+      }
+      
+    
+    .icons{
+        display: flex;
+        gap: 40px;
+        margin-top: 57px;
+    }
+    .icon-text{
+    
+    height: 26px;
+    left: 0px;
+    right: 0px;
+    top: 50px;
+    
+    /* Medium 16 */
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+ 
+    color: #091133;
+    
+    
+    }
+    .Icon-text-1{
+       
+    height: 54px;
+    left: 0px;
+    right: 0px;
+    top: 82px;
+    
+    /* Regular 12 */
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    /* or 150% */
+    
+    
+    /* Colour/Main/Grey/600 */
+    
+    color: #5D6970;
+    
+    }
+    .Tugadi{
+        margin-top: 3000px;
+       z-index: 0;
+       position: absolute;
+       left: -43.08%;
+       right: -33.79%;
+       top: 77.95%;
+       bottom: 1.78%;
+          
+       font-weight: 900;
+       font-size: 26px;
+       line-height: 38px;
+       color: #37447e;
+       z-index: 0;
+       left: -0px;
+       width: 1270px;
+       }
+       
+       .Textes{
+          
+           margin-left: 23%;
+           width: 600px;
+           top: 200px;
+           position: relative;
+           z-index: 1;
+           align-items: center;
+           text-align: center;
+           justify-content: center;
+       
+       }
+       .button44{
+           background: #111b47;
+           border-radius: 2px;
+           font-weight: 500;
+           font-size: 12px;
+           line-height: 18px;
+           color: #ffffff;
+           height: 26px;
+           width: 160px;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+            margin-left:220px ;
+           -webkit-user-select: none; /* Safari */
+           -ms-user-select: none; /* IE 10 and IE 11 */
+           user-select: none; /* Standard syntax */
+           
+          
+       
+       }
+       .text36{
+           width: 600px;
+           height: 78px;
+           font-family: 'Roboto';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 16px;
+       line-height: 26px;
+       /* or 162% */
+       
+       
+       
+       /* Colour/Main/Blue/400 */
+       
+       color: #6F7CB2;
+       
+       
+       }
+       .hedline{
+           font-family: 'Roboto';
+       font-style: normal;
+       font-weight: 500;
+       font-size: 36px;
+       line-height: 48px;
+       /* identical to box height, or 133% */
+       
+       text-align: center;
+       
+       /* Colour/Main/Blue/900 */
+       
+       
+       
+       }
+       .chena{
+           font-family: 'Roboto';
+       font-style: normal;
+       font-weight: 500;
+       font-size: 50px;
+       line-height: 66px;
+       /* identical to box height, or 132% */
+       
+       text-align: center;
+       letter-spacing: 1px;
+       
+       /* Colour/Main/Blue/700 */
+       
+       color: #222F65;
+       }
+       .ss1{
+           font-family: 'Roboto';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 16px;
+       line-height: 26px;
+       /* identical to box height, or 162% */
+       
+       text-align: center;
+       
+       /* Colour/Main/Blue/600 */
+       
+       color: #37447E;
+       
+       }
+       .see1{
+           font-family: 'Roboto';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 14px;
+       line-height: 24px;
+       /* identical to box height, or 171% */
+       
+       text-align: center;
+       
+       /* Colour/Main/Grey/600 */
+       
+       color: #5D6970;
+       
+       }
+       .Tugatish{
+       
+           align-items: center;
+           text-align: center;
+           justify-content: center;
+           flex-direction: column;
+           
+          
+       
+       }
+       .Ajali{
+            height: 216px;
+      
+           padding: 0px 88px;
+           padding-top: 60px;
+           z-index: 2;
+           left: 0%;
+           right: 0%;
+           top: 95.33%;
+           bottom: 0%;
+          
+           background: #E7ECFF;
+       }
+       .lan{
+         
+           align-items: center;
+           display: flex;
+           justify-content: space-between;
+       
+       }
+       .logo11{
+           font-weight: 900;
+           font-size: 26px;
+           line-height: 38px;
+           color: #37447e;
+           
+       
+       }
+       .B{
+           text-decoration: none;
+          
+       }
+       .Linklar{
+           gap: 30px;
+       
+           display: flex;
+           align-items: center;
+           justify-content: space-evenly;
+       }
+       .Belgilar{
+           display: flex;
+           justify-content: space-between;
+       }
+       .abg{
+         text-decoration: none;
+         
+         font-style: normal;
+         font-weight: 400;
+         font-size: 16px;
+         line-height: 24px;
+         color: #505f98;
+       }

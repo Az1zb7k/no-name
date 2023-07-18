@@ -1,0 +1,98 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box;
+    font-family: "Roboto", sans-serif; */
+    /* align-items: center; */
+    
+    
+}
+
+.Grand1{
+  
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+@media screen and (max-width: 600px) {
+    .Grand1{
+      justify-content: start;
+
+      
+    }
+  }
+
+
+.Bobo{
+margin-top: 150px;
+margin-left:250px ;
+
+width: 800px;
+height: 408px;
+
+background: #FFFFFF;
+border-radius: 4px;
+
+padding: 50px;
+display: grid;
+align-items: center;
+justify-content: center;
+text-align: start;
+}
+@media screen and (max-width: 600px) {
+    .Bobo{
+        padding: 0;
+      margin-left: 0;
+      justify-content: baseline;
+      align-items: baseline;
+
+    }
+  }
+.tu1{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height, or 133% */
+
+
+color: #111B47;
+
+}
+.tu2{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
+color: #939EA4;
+
+}
+.tu3{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
+color: #5D6970;
+
+}
+.tu4{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #939EA4;
+}

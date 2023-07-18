@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,900;1,500&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+.ota{
+    width: 1240px;
+    height: 824px;
+  
+     padding-right:88px ;
+    display: flex;
+
+    
+    position: relative;
+
+}
+@media only screen and (max-width: 600px) {
+    .ota {
+       display: grid;
+       width: 600px;
+       height: 1000px;
+    }
+  }
+  
+
+.Bratan1{
+    width: 40%;
+    height: 100%;
+    
+}
+@media only screen and (max-width: 600px) {
+    .Bratan {
+       height: 500px;
+       width: 400px;
+       margin-left: 20px;
+       margin-top: 10px;
+    }
+  }
+  
+
+.Yozuvlar{
+    margin-top: 120px;
+    margin-left:140px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+@media only screen and (max-width: 600px) {
+    .Yozuvlar {
+      margin-top: 10px;
+      margin-left: 30px;
+    }
+  }
+  
+.Yozuv{
+    height: 202px;
+    width: 575px;
+    align-items: center;
+    justify-content: center;
+    text-align: start;
+}
+.Headbr{
+ 
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+  
+    
+    color: #091133;
+}
+.ishoralr{
+    margin-top: 80px;
+    gap: 30px;
+    display: flex;
+    text-align: start;
+    /* align-items: start; */
+}
+.rr1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+ 
+    color: #091133;
+    
+
+}
+.rr2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+ 
+    
+    color: #5D6970;
+
+}
+.Foo22{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+
+color: #6F7CB2;
+
+
+}
